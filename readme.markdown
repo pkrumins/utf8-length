@@ -2,6 +2,8 @@
 
 return the number of bytes in a unicode string
 
+[![build status](https://secure.travis-ci.org/substack/utf8-length.png)](http://travis-ci.org/substack/utf8-length)
+
 # example
 
 ``` js
