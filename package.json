@@ -1,5 +1,5 @@
 {
-  "name": "utf8-bytes",
+  "name": "utf8-length",
   "version": "0.0.0",
   "description": "return the number of bytes in a unicode string",
   "main": "index.js",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/utf8-bytes.git"
+    "url": "git://github.com/substack/utf8-length.git"
   },
-  "homepage": "https://github.com/substack/utf8-bytes",
+  "homepage": "https://github.com/substack/utf8-length",
   "keywords": [
     "utf8",
     "utf-8",

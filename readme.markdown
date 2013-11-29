@@ -1,11 +1,11 @@
-# utf8-bytes
+# utf8-length
 
 return the number of bytes in a unicode string
 
 # example
 
 ``` js
-var bytes = require('utf8-bytes');
+var bytes = require('utf8-length');
 console.log(bytes('¡dooq dǝǝq'));
 ```
 
@@ -19,7 +19,7 @@ $ node example/beep.js
 # methods
 
 ``` js
-var bytes = require('utf8-bytes')
+var bytes = require('utf8-length')
 ```
 
 ## bytes(string)
