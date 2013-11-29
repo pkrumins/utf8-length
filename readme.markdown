@@ -13,7 +13,7 @@ result:
 
 ```
 $ node example/beep.js
-11
+13
 ```
 
 # methods
