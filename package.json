@@ -26,7 +26,7 @@
     "encoding"
   ],
   "testling" : {
-    "files" : "test/browser/*.js",
+    "files" : "test/*.js",
     "browsers" : [
       "ie/6..latest",
       "chrome/25..latest",
