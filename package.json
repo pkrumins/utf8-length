@@ -31,7 +31,7 @@
       "ie/6..latest",
       "chrome/25..latest",
       "firefox/10..latest",
-      "safari/5..latest",
+      "safari/5.1..latest",
       "opera/11.0..latest",
       "iphone/6", "ipad/6"
     ]
